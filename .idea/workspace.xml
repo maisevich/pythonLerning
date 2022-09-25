@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="lesson2" />
+    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="task_1_lesson_2">
+      <change afterPath="$PROJECT_DIR$/home_work_lesson2/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson2/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson2/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson2/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson2/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/task1_lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/task1_lesson2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.task1_lesson2">
+  <component name="RunManager" selected="Python.task_3">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1_lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task1_lesson2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson2/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson1/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson2/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson1/task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson2/task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson1/task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson2/task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task1_lesson2" />
-        <item itemvalue="Python.task_2" />
-        <item itemvalue="Python.task_4" />
-        <item itemvalue="Python.task_5" />
         <item itemvalue="Python.task_3" />
+        <item itemvalue="Python.task_5" />
+        <item itemvalue="Python.task_4" />
+        <item itemvalue="Python.task_2 (1)" />
+        <item itemvalue="Python.task_2" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664054379573</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson2">
+      <created>1664088477742</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664088477743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task_1_lesson_2">
+      <created>1664088610880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664088610880</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +302,9 @@
     <MESSAGE value="commit_task_2_home_work" />
     <MESSAGE value="commit_task_1.1_home_work" />
     <MESSAGE value="new_repositories" />
-    <option name="LAST_COMMIT_MESSAGE" value="new_repositories" />
+    <MESSAGE value="lesson2" />
+    <MESSAGE value="task_1_lesson_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_1_lesson_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
