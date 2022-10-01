@@ -3,7 +3,7 @@
 #for i in range (number):#
 #    print(num, end= " ")
 #   num *= -3
-import nt
+#import nt
 
 #n = int(input("Enter the number "))
 #ls = list()
@@ -21,5 +21,6 @@ import nt
 #print(str1.count(str2))
 
 #nt.replace("po", "po").replace("ta", "mo")
-
-
+a = 'abc'
+b = 'dec'
+print(a + b)
