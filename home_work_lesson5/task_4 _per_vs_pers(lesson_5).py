@@ -6,7 +6,7 @@ print(welcome_text)
 message = ['Сейчас играет ', 'Ход выполняет', ' Ставку делает']
 
 def player_vs_player():
-    candies_total = 2022
+    candies_total = 2021
     max_take = 28
     count = 0
     player_1 = input('Введите имя игрока 1: ')
