@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="task2.1_lesson2">
+    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="home_work_lesson5_and_lesson_6">
       <change afterPath="$PROJECT_DIR$/home_work_lesson3/alltask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson5/task_4_version__a(lesson_5).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/segmet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/summ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/view.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/homework2.0.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/myself.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson3/alltask3.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2022_22_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2022_22_12__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/task1_lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/task1_lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work_lesson4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_lesson4/task_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +60,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.task_1">
-    <configuration name="alltask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,32 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson3/alltask.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/homework2.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,6 +103,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\pythonStudy\home_work_lesson7\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson3/task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_2(lesson_6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson3/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson6/task_2(lesson_6).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_3(lesson_6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson3/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson6/task_3(lesson_6).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main(task_1)" />
         <item itemvalue="Python.task_1" />
-        <item itemvalue="Python.task_3" />
-        <item itemvalue="Python.task_2" />
-        <item itemvalue="Python.alltask" />
-        <item itemvalue="Python.homework2.0" />
+        <item itemvalue="Python.task_3(lesson_6)" />
+        <item itemvalue="Python.task_2(lesson_6)" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +304,42 @@
       <option name="project" value="LOCAL" />
       <updated>1664129860306</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="home_work_lesson3">
+      <created>1664645173273</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664645173273</updated>
+    </task>
+    <task id="LOCAL-00016" summary="home_work_lesson4">
+      <created>1664823778503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664823778503</updated>
+    </task>
+    <task id="LOCAL-00017" summary="home_work_lesson5">
+      <created>1665257186492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665257186492</updated>
+    </task>
+    <task id="LOCAL-00018" summary="home_work_lesson5.1">
+      <created>1665313728175</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665313728175</updated>
+    </task>
+    <task id="LOCAL-00019" summary="home_work_lesson5_and_lesson_6">
+      <created>1665322397782</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665322397782</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +367,12 @@
     <MESSAGE value="task_1_lesson_2" />
     <MESSAGE value="home_work_lesson2" />
     <MESSAGE value="task2.1_lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task2.1_lesson2" />
+    <MESSAGE value="home_work_lesson3" />
+    <MESSAGE value="home_work_lesson4" />
+    <MESSAGE value="home_work_lesson5" />
+    <MESSAGE value="home_work_lesson5.1" />
+    <MESSAGE value="home_work_lesson5_and_lesson_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="home_work_lesson5_and_lesson_6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,8 +1,11 @@
 # 1. Вычислить число c заданной точностью d
+import decimal
+from decimal import Decimal, getcontext
 
-import random
-
-num = random.random()
+num = decimal.Decimal(input())
 print('Дано число: ', num)
-dec = int(input(f'Задайте величину вычисления точности числа {num}: '))
-print(round(num, dec))
+
+n = int(input())
+getcontext().prec = 5
+numm = Decimal(num)
+print(num.quantize(Decimal('1.00')))
