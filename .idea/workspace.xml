@@ -4,25 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="home_work_lesson5_and_lesson_6">
-      <change afterPath="$PROJECT_DIR$/home_work_lesson3/alltask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson5/task_4_version__a(lesson_5).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/segmet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/summ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_lesson7/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/myself.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/alltask3.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2022_22_12_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2022_22_12__Changes_.xml" beforeDir="false" />
+    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="afanasy_bot">
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/CSV_creating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/File_writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/User_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/personal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_lesson7/Phone_book/personal.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work_lesson4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_lesson4/task_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +50,49 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="File_writing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7/Phone_book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/Phone_book/File_writing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="afanasy_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/telegram_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/telegram_bot/afanasy_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +106,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7/Phone_book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/Phone_book/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,55 +198,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2(lesson_6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson6/task_2(lesson_6).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_3(lesson_6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson6/task_3(lesson_6).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main(task_1)" />
+        <item itemvalue="Python.afanasy_bot" />
+        <item itemvalue="Python.File_writing" />
         <item itemvalue="Python.task_1" />
-        <item itemvalue="Python.task_3(lesson_6)" />
-        <item itemvalue="Python.task_2(lesson_6)" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +350,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665322397782</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="home_work_lesson7(v.1)">
+      <created>1665861720359</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665861720359</updated>
+    </task>
+    <task id="LOCAL-00021" summary="my_task">
+      <created>1665861821301</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665861821301</updated>
+    </task>
+    <task id="LOCAL-00022" summary="afanasy_bot">
+      <created>1665910248480</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665910248480</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +404,10 @@
     <MESSAGE value="home_work_lesson5" />
     <MESSAGE value="home_work_lesson5.1" />
     <MESSAGE value="home_work_lesson5_and_lesson_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="home_work_lesson5_and_lesson_6" />
+    <MESSAGE value="home_work_lesson7(v.1)" />
+    <MESSAGE value="my_task" />
+    <MESSAGE value="afanasy_bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="afanasy_bot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
