@@ -2,7 +2,7 @@ import random
 
 import telebot
 
-bot = telebot.TeleBot('5783962027:AAHNTNOavWT6BCMr-l8jGTiATWHuo3RShUU')
+bot = telebot.TeleBot('   ')
 
 from telebot import types
 
@@ -12,6 +12,9 @@ from telebot import types
 
 @bot.message_handler(content_types=['text'])
 def get_text_messages (message):
+
+
+
 
     if message.text == "Привет":
 
