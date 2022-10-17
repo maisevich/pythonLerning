@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="home_work_lesson7(v.2)">
-      <change afterPath="$PROJECT_DIR$/telegram_bot/afanasy_bot.py" afterDir="false" />
+    <list default="true" id="20fc8a65-f134-4e63-abf3-6806e236c0c1" name="Changes" comment="afanasy_bot">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/model_addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/model_addition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/model_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/model_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/model_exponentiation.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/model_exponentiation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/model_multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/model_multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/model_subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/model_subtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calkulator_v1/calculator/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/calkulator_v1/calculator/user_interface.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/calkulator_v1/calculator" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="File_writing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +136,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calkulator_v1/calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calkulator_v1/calculator/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,34 +199,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work_lesson7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_lesson7/task_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.afanasy_bot" />
         <item itemvalue="Python.File_writing" />
-        <item itemvalue="Python.task_1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +379,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665926006912</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="afanasy_bot">
+      <created>1665930352961</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665930352961</updated>
+    </task>
+    <task id="LOCAL-00025" summary="afanasy_bot1.0">
+      <created>1665930533452</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665930533452</updated>
+    </task>
+    <task id="LOCAL-00026" summary="afanasy_bot">
+      <created>1665932897258</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665932897258</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,9 +435,10 @@
     <MESSAGE value="home_work_lesson5_and_lesson_6" />
     <MESSAGE value="home_work_lesson7(v.1)" />
     <MESSAGE value="my_task" />
-    <MESSAGE value="afanasy_bot" />
     <MESSAGE value="home_work_lesson7(v.2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="home_work_lesson7(v.2)" />
+    <MESSAGE value="afanasy_bot1.0" />
+    <MESSAGE value="afanasy_bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="afanasy_bot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
